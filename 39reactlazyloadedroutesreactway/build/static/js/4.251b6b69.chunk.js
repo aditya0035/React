@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{34:function(n,o,e){"use strict";e.r(o);var s=e(0),t=e.n(s);console.log("Posts Component Loaded");o.default=function(){return t.a.createElement("div",null,"This is Posts Component")}}}]);
+//# sourceMappingURL=4.251b6b69.chunk.js.map

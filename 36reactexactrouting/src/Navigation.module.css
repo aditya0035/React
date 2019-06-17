@@ -1,0 +1,8 @@
+.Navlink{
+    color:brown;
+    text-decoration: none
+}
+.Navlink:active{
+    color: blue;
+    text-decoration: underline
+}
