@@ -1,0 +1,6 @@
+export const INC_COUNTER="INC_COUNTER"
+export const DSC_COUNTER="DSC_COUNTER"
+export const ADD_COUNTER="ADD_COUNTER"
+export const SUB_COUNTER="SUB_COUNTER"
+export const ADD_RESULT="ADD_RESULT"
+export const DELETE_RESULT="DELETE_RESULT"
